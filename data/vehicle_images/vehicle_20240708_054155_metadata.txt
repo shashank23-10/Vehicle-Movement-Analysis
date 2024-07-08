@@ -1,0 +1,2 @@
+vehicle_image_path: data/vehicle_images\vehicle_20240708_054155.jpg
+vehicle_timestamp: 20240708_054155
